@@ -43,8 +43,8 @@ const AboutSection = () => {
             <br />
             <p>
               In high school, I began programming with C++ and achieved victory
-              in the "2D Soccer Simulation" competition at the Kharazmi
-              Festival.
+              in the &quot;2D Soccer Simulation&quot; competition at the
+              Kharazmi Festival.
             </p>
             <br />
             <p>
