@@ -3,13 +3,7 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-  exportPathMap: function () {
-    return {
-      "/": {
-        page: "/",
-      },
-    };
-  },
+  output: "export",
 };
 
 module.exports = nextConfig;
