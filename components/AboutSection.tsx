@@ -37,24 +37,25 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I graduated from Iran University of Science and Technology in 2020
-              with a M.Sc. in Computer Engineering and have been working in the
-              field ever since.
+              I graduated from IUST in 2020 with a M.Sc. in Computer Engineering
+              and have been working in the field ever since.
             </p>
             <br />
             <p>
-              I actively pursue a variety of hobbies and passions to enrich my
-              life. From reading and sports to travel and watching movies, I
-              enjoy immersing myself in diverse experiences and learning
-              opportunities.
+              In high school, I began programming with C++ and achieved victory
+              in the "2D Soccer Simulation" competition at the Kharazmi
+              Festival.
             </p>
             <br />
             <p>
-              I think it&apos;s important to keep growing, and that&apos;s what
-              I aim for.{" "}
+              Following that, I worked as a system administrator at Mahna and
+              Gardoon before transitioning into a developer role. Proficient
+              with Docker, I enjoy working with React.js and Next.js for
+              front-end development, while Nest.js is my preferred choice for
+              backend development.{" "}
               <span className="font-bold text-teal-500">I love technology</span>{" "}
-              and always want to push its limits. I&apos;m excited to see where
-              my career goes and open to new opportunities.
+              and always want to push its limits. I&apos;m open to exploring new
+              opportunities.
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
