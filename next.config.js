@@ -5,9 +5,8 @@ const nextConfig = {
   },
   exportPathMap: function () {
     return {
-      "/locales/de-DE/summer-dress-f": {
-        page: "/locales/[locale]/[slug]",
-        query: { locale: "de-DE", slug: "summer-dress-f" },
+      "/": {
+        page: "/",
       },
     };
   },
