@@ -27,8 +27,8 @@ const HeroSection = () => {
               Software Engineer{" "}
             </span>
             currently in Padua, Italy. I feel energized when focusing deeply on
-            a subject or activity that really interests me. I'm passionate about
-            software development, ready to make an impact.
+            a subject or activity that really interests me. I&apos;m passionate
+            about software development, ready to make an impact.
           </p>
           <Link
             to="projects"

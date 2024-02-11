@@ -50,10 +50,11 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I think it's important to keep growing, and that's what I aim for.{" "}
+              I think it&apos;s important to keep growing, and that&apos;s what
+              I aim for.{" "}
               <span className="font-bold text-teal-500">I love technology</span>{" "}
-              and always want to push its limits. I'm excited to see where my
-              career goes and open to new opportunities.
+              and always want to push its limits. I&apos;m excited to see where
+              my career goes and open to new opportunities.
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
