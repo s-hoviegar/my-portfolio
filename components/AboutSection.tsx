@@ -5,12 +5,12 @@ const skills = [
   { skill: "CSS" },
   { skill: "JavaScript" },
   { skill: "TypeScript" },
-  { skill: "Python" },
   { skill: "React" },
   { skill: "Next.js" },
   { skill: "Nest.js" },
   { skill: "Docker" },
   { skill: "MySQL" },
+  { skill: "Python" },
   { skill: "Git" },
 ];
 
